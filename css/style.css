@@ -90,7 +90,7 @@ nav ul {
   /* box-sizing: border-box;
   border: 2px solid rgb(77, 68, 68);
   /* display: inline-block; */
-  background-image: url(/img/maney32.jpg);
+  background-image: url(../img/maney32.jpg);
   background-position: top right;
   background-size: cover;
 
@@ -173,7 +173,7 @@ h3 {
 .gotoBlog {
   margin-top: 0.5em;
   /* margin: 0 auto; */
-  background-image: url(/img/abcphoto.jpg);
+  background-image: url(../img/abcphoto.jpg);
   background-size: cover;
   /* background-color: rgb(196, 208, 209); */
   width: 100%;
